@@ -888,7 +888,7 @@ MonoBehaviour:
   - {fileID: 19080426}
   - {fileID: 1181141323}
   spawnBoxTimer: 2
-  spawnCopterTimer: 6
+  spawnCopterTimer: 5
   playing: 0
   gameOver: 0
   boxes:
